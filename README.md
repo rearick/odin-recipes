@@ -17,4 +17,4 @@ Completion of this project will demonstrate the ability to:
 - Embed images in web pages
 - Choose an appropriate image file format for the purpose of each image
 - Organize the source files and image assets according to web development best practices
-- Commit changes to version control using we written commit messages
+- Commit changes to version control using well written commit messages
