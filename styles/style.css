@@ -1,0 +1,30 @@
+body {
+    font-family: "Cousine", Arial, monospace;
+    color: white;
+    background-color: black;
+}
+
+.cousine-regular {
+    font-family: "Cousine", Arial, monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cousine-bold {
+font-family: "Cousine", Arial, monospace;
+font-weight: 700;
+font-style: normal;
+}
+
+.cousine-regular-italic {
+font-family: "Cousine", Arial, monospace;
+font-weight: 400;
+font-style: italic;
+}
+
+.cousine-bold-italic {
+font-family: "Cousine", Arial, monospace;
+font-weight: 700;
+font-style: italic;
+}
+  
